@@ -59,6 +59,7 @@ Email: [etslav.pavel@gmail.com](mailto:etslav.pavel@gmail.com)
 ## Проекты
 
 * [Kaspi Sentiment Analysis](https://github.com/This-is-PaVlo/kaspi-sentiment-analysis)
+* [Steel Defect Detection with YOLOv8](https://github.com/This-is-PaVlo/steel-defect-detection-yolov8)
 
 ## Контакты
 
