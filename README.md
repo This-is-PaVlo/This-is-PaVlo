@@ -28,6 +28,7 @@ Omsk Industrial and Economic College
 * [Kaspi Sentiment Analysis](https://github.com/This-is-PaVlo/kaspi-sentiment-analysis)
 * [Steel Defect Detection with YOLOv8](https://github.com/This-is-PaVlo/steel-defect-detection-yolov8)
 * [AIChatFlutter](https://github.com/This-is-PaVlo/ai-chat-flutter-upgraded)
+* [Kyocera Support RAG Assistant](https://github.com/This-is-PaVlo/kyocera-support-rag-assistant)
 
 ## Contacts
 
@@ -63,6 +64,7 @@ Email: [etslav.pavel@gmail.com](mailto:etslav.pavel@gmail.com)
 * [Kaspi Sentiment Analysis](https://github.com/This-is-PaVlo/kaspi-sentiment-analysis)
 * [Steel Defect Detection with YOLOv8](https://github.com/This-is-PaVlo/steel-defect-detection-yolov8)
 * [AIChatFlutter](https://github.com/This-is-PaVlo/ai-chat-flutter-upgraded)
+* [Kyocera Support RAG Assistant](https://github.com/This-is-PaVlo/kyocera-support-rag-assistant)
 
 ## Контакты
 
