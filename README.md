@@ -26,6 +26,8 @@ Omsk Industrial and Economic College
 ## Projects
 
 * [Kaspi Sentiment Analysis](https://github.com/This-is-PaVlo/kaspi-sentiment-analysis)
+* [Steel Defect Detection with YOLOv8](https://github.com/This-is-PaVlo/steel-defect-detection-yolov8)
+* [AIChatFlutter](https://github.com/This-is-PaVlo/ai-chat-flutter-upgraded)
 
 ## Contacts
 
