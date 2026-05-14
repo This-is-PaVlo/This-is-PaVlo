@@ -2,12 +2,12 @@
 
 ## About me
 
-I am a beginner Python developer interested in data science and machine learning.
-Currently, I am building my skills and working on educational projects.
+Python developer focused on practical AI automation, text analysis, RAG assistants and computer vision prototypes.
 
 ## Education
 
-Omsk Industrial and Economic College
+2026, THE FOUNDER, Neural Network Developer course
+2021, Omsk Industrial and Economic College
 
 ## Work experience
 
@@ -38,12 +38,13 @@ Email: [etslav.pavel@gmail.com](mailto:etslav.pavel@gmail.com)
 
 ## О себе
 
-Я начинающий разработчик на Python, интересуюсь анализом данных и машинным обучением.
-В настоящее время развиваю навыки и выполняю учебные проекты.
+Python-разработчик, занимаюсь практической AI-автоматизацией: анализом текстов, RAG-ассистентами, обработкой данных и прототипами компьютерного зрения.
 
 ## Образование
 
-Омский промышленно-экономический колледж
+2026, THE FOUNDER, курс "Разработчик нейросетей"
+2021, Омский промышленно-экономический колледж
+
 
 ## Опыт работы
 
