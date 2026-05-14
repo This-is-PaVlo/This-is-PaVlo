@@ -6,8 +6,8 @@ Python developer focused on practical AI automation, text analysis, RAG assistan
 
 ## Education
 
-2026, THE FOUNDER, Neural Network Developer course
-2021, Omsk Industrial and Economic College
+* 2026, THE FOUNDER, Neural Network Developer course
+* 2021, Omsk Industrial and Economic College
 
 ## Work experience
 
@@ -42,8 +42,8 @@ Python-разработчик, занимаюсь практической AI-а
 
 ## Образование
 
-2026, THE FOUNDER, курс "Разработчик нейросетей"
-2021, Омский промышленно-экономический колледж
+* 2026, THE FOUNDER, курс "Разработчик нейросетей"
+* 2021, Омский промышленно-экономический колледж
 
 
 ## Опыт работы
